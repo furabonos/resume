@@ -31,3 +31,12 @@ FastCampus - IOS 7기 과정 수료
 
 
 <img src="https://github.com/furabonos/resume/blob/master/images/PUBG1.jpeg" width="160" height="280">  <img src="https://github.com/furabonos/resume/blob/master/images/PUBG2.jpeg" width="160" height="280">  <img src="https://github.com/furabonos/resume/blob/master/images/PUBG3.jpeg" width="160" height="280">  <img src="https://github.com/furabonos/resume/blob/master/images/PUBG4.jpeg" width="160" height="280">  <img src="https://github.com/furabonos/resume/blob/master/images/PUBG5.jpeg" width="160" height="280">  <img src="https://github.com/furabonos/resume/blob/master/images/PUBG6.jpeg" width="160" height="280">  <img src="https://github.com/furabonos/resume/blob/master/images/PUBG7.jpeg" width="160" height="280">
+
+## 팀 프로젝트
+### FCHackathon
+패스트캠퍼스 해커톤 앱. 사진을 찍거나 불러와서 필터를 입히거나, 스티커를 부착할수 있는 앱.
+* 기간: 2018/7/18
+* 사용기술: Swift
+
+<img src="https://github.com/furabonos/resume/blob/master/images/FCH1.jpeg" width="160" height="280">  <img src="https://github.com/furabonos/resume/blob/master/images/FCH2.jpeg" width="160" height="280">  <img src="https://github.com/furabonos/resume/blob/master/images/FCH3.jpeg" width="160" height="280">  <img src="https://github.com/furabonos/resume/blob/master/images/FCH4.jpeg" width="160" height="280">
+
