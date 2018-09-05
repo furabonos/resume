@@ -33,9 +33,20 @@ FastCampus - IOS 7기 과정 수료
 <img src="https://github.com/furabonos/resume/blob/master/images/PUBG1.jpeg" width="160" height="280">  <img src="https://github.com/furabonos/resume/blob/master/images/PUBG2.jpeg" width="160" height="280">  <img src="https://github.com/furabonos/resume/blob/master/images/PUBG3.jpeg" width="160" height="280">  <img src="https://github.com/furabonos/resume/blob/master/images/PUBG4.jpeg" width="160" height="280">  <img src="https://github.com/furabonos/resume/blob/master/images/PUBG5.jpeg" width="160" height="280">  <img src="https://github.com/furabonos/resume/blob/master/images/PUBG6.jpeg" width="160" height="280">  <img src="https://github.com/furabonos/resume/blob/master/images/PUBG7.jpeg" width="160" height="280">
 
 ## 팀 프로젝트
+
+### Fastcampus Project - Airbnb_copy
+패스트캠퍼스 프로젝트. 에어비앤비 앱을 카피해서 만들어봄. 기능구현은 가능한 데 까지.
+* 기간: 2018/07/30 ~ 2018/08/23
+* 담당파트: 숙소 상세 페이지, 좋아요 리스트 
+* 사용기술: Swift, Firebase
+
+<img src="https://github.com/furabonos/resume/blob/master/images/Air1.jpeg" width="160" height="280">  <img src="https://github.com/furabonos/resume/blob/master/images/Air2.jpeg" width="160" height="280">  <img src="https://github.com/furabonos/resume/blob/master/images/Air3.jpeg" width="160" height="280">  <img src="https://github.com/furabonos/resume/blob/master/images/Air4.jpeg" width="160" height="280">  <img src="https://github.com/furabonos/resume/blob/master/images/Air5.jpeg" width="160" height="280">  <img src="https://github.com/furabonos/resume/blob/master/images/Air6.jpeg" width="160" height="280">  <img src="https://github.com/furabonos/resume/blob/master/images/Air7.jpeg" width="160" height="280">
+
+
 ### FCHackathon
 패스트캠퍼스 해커톤 앱. 사진을 찍거나 불러와서 필터를 입히거나, 스티커를 부착할수 있는 앱.
 * 기간: 2018/7/18
+* 담당파트: 스티커부착 파트
 * 사용기술: Swift
 
 <img src="https://github.com/furabonos/resume/blob/master/images/FCH1.jpeg" width="160" height="280">  <img src="https://github.com/furabonos/resume/blob/master/images/FCH2.jpeg" width="160" height="280">  <img src="https://github.com/furabonos/resume/blob/master/images/FCH3.jpeg" width="160" height="280">  <img src="https://github.com/furabonos/resume/blob/master/images/FCH4.jpeg" width="160" height="280">
