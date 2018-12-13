@@ -21,6 +21,7 @@ FastCampus - IOS 7기 과정 수료
 날씨와 관련해서 옷을 어떻게 입을지 추천하는 앱.
 * 기간: 2017/12 ~ 
 * 사용기술: Swift, Realm
+* 사용 라이브러리: Alamofire, SwiftyJson 
 * AppStore ([https://itunes.apple.com/us/app/%EC%B6%9C%EA%B2%A9%EA%B0%80%EB%8A%A5/id1317706187?mt=8](https://itunes.apple.com/us/app/%EC%B6%9C%EA%B2%A9%EA%B0%80%EB%8A%A5/id1317706187?mt=8))
 
 <img src="https://github.com/furabonos/resume/blob/master/images/CK1.jpeg" width="160" height="280">  <img src="https://github.com/furabonos/resume/blob/master/images/CK2.jpeg" width="160" height="280">  <img src="https://github.com/furabonos/resume/blob/master/images/CK3.jpeg" width="160" height="280">  <img src="https://github.com/furabonos/resume/blob/master/images/CK4.jpeg" width="160" height="280">
@@ -30,6 +31,7 @@ FastCampus - IOS 7기 과정 수료
 온라인 게임 '배틀그라운드' 관련 앱. 전적검색(현재는 api문제로 검색이 되지 않음), 무기DB, 비행기 경로를 저장할수 있음.
 * 기간: 2018/01 ~ 2018/02
 * 사용기술: Swift, Realm
+* 사용 라이브러리: Alamfire, SwiftyJson, Realm
 
 
 <img src="https://github.com/furabonos/resume/blob/master/images/PUBG1.jpeg" width="160" height="280">  <img src="https://github.com/furabonos/resume/blob/master/images/PUBG2.jpeg" width="160" height="280">  <img src="https://github.com/furabonos/resume/blob/master/images/PUBG3.jpeg" width="160" height="280">  <img src="https://github.com/furabonos/resume/blob/master/images/PUBG4.jpeg" width="160" height="280">  <img src="https://github.com/furabonos/resume/blob/master/images/PUBG5.jpeg" width="160" height="280">  <img src="https://github.com/furabonos/resume/blob/master/images/PUBG6.jpeg" width="160" height="280">  <img src="https://github.com/furabonos/resume/blob/master/images/PUBG7.jpeg" width="160" height="280">
@@ -41,6 +43,7 @@ FastCampus - IOS 7기 과정 수료
 * 기간: 2018/07/30 ~ 2018/08/23
 * 담당파트: 숙소 상세 페이지, 좋아요 리스트 
 * 사용기술: Swift, Firebase
+* 사용 라이브러리: Alamofire, Kingfisher, FBSDKLoginKit, NVActivityIndicatorView, Firebase, JSQMessagesViewController
 
 <img src="https://github.com/furabonos/resume/blob/master/images/Air1.jpeg" width="160" height="280">  <img src="https://github.com/furabonos/resume/blob/master/images/Air2.jpeg" width="160" height="280">  <img src="https://github.com/furabonos/resume/blob/master/images/Air3.jpeg" width="160" height="280">  <img src="https://github.com/furabonos/resume/blob/master/images/Air4.jpeg" width="160" height="280">  <img src="https://github.com/furabonos/resume/blob/master/images/Air5.jpeg" width="160" height="280">  <img src="https://github.com/furabonos/resume/blob/master/images/Air6.jpeg" width="160" height="280">  <img src="https://github.com/furabonos/resume/blob/master/images/Air7.jpeg" width="160" height="280">
 
@@ -50,6 +53,7 @@ FastCampus - IOS 7기 과정 수료
 * 기간: 2018/7/18
 * 담당파트: 스티커부착 파트
 * 사용기술: Swift
+* 사용 라이브러리: FlexibleImage
 
 <img src="https://github.com/furabonos/resume/blob/master/images/FCH1.jpeg" width="160" height="280">  <img src="https://github.com/furabonos/resume/blob/master/images/FCH2.jpeg" width="160" height="280">  <img src="https://github.com/furabonos/resume/blob/master/images/FCH3.jpeg" width="160" height="280">  <img src="https://github.com/furabonos/resume/blob/master/images/FCH4.jpeg" width="160" height="280">
 
