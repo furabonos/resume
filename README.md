@@ -31,7 +31,7 @@ FastCampus - IOS 7기 과정 수료
 온라인 게임 '배틀그라운드' 관련 앱. 전적검색(현재는 api문제로 검색이 되지 않음), 무기DB, 비행기 경로를 저장할수 있음.
 * 기간: 2018/01 ~ 2018/02
 * 사용기술: Swift, Realm
-* 사용 라이브러리: Alamfire, SwiftyJson, Realm
+* 사용 라이브러리: Alamofire, SwiftyJson, Realm
 
 
 <img src="https://github.com/furabonos/resume/blob/master/images/PUBG1.jpeg" width="160" height="280">  <img src="https://github.com/furabonos/resume/blob/master/images/PUBG2.jpeg" width="160" height="280">  <img src="https://github.com/furabonos/resume/blob/master/images/PUBG3.jpeg" width="160" height="280">  <img src="https://github.com/furabonos/resume/blob/master/images/PUBG4.jpeg" width="160" height="280">  <img src="https://github.com/furabonos/resume/blob/master/images/PUBG5.jpeg" width="160" height="280">  <img src="https://github.com/furabonos/resume/blob/master/images/PUBG6.jpeg" width="160" height="280">  <img src="https://github.com/furabonos/resume/blob/master/images/PUBG7.jpeg" width="160" height="280">
