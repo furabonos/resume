@@ -19,6 +19,13 @@ UGBOSS
 FastCampus - IOS 7기 과정 수료
 * 2018/05/09 ~ 2018/08/24
 
+## 회사 프로젝트
+### mSTUV
+* 소속: MLab
+* 역할: ios앱 개발, 유지보수
+* 사용기술: Swift
+* AppStore ([https://itunes.apple.com/kr/app/mstuv/id1263774510?mt=8](https://itunes.apple.com/kr/app/mstuv/id1263774510?mt=8))
+
 ## 개인 프로젝트
 ### 출격가능?
 날씨와 관련해서 옷을 어떻게 입을지 추천하는 앱.
