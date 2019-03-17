@@ -6,6 +6,9 @@ Blog : https://furabonos.github.io/
 
 ## 경력
 
+MLab
+* 2019/01/07 ~ ing
+
 ATOSTUDY
 * 2017/08/01 ~ 2017/10/31
 
