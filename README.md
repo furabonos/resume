@@ -1,4 +1,4 @@
-# resume
+* # resume
 # 이력서
 
 Blog : https://furabonos.github.io/
@@ -35,7 +35,8 @@ FastCampus - IOS 7기 과정 수료
 * AppStore ([https://itunes.apple.com/us/app/%EC%B6%9C%EA%B2%A9%EA%B0%80%EB%8A%A5/id1317706187?mt=8](https://itunes.apple.com/us/app/%EC%B6%9C%EA%B2%A9%EA%B0%80%EB%8A%A5/id1317706187?mt=8))
 * 현재 AppStore에서 내려감. 다시 올릴예정
 
-<img src="https://github.com/furabonos/resume/blob/master/images/CK1.jpeg" width="160" height="280">  <img src="https://github.com/furabonos/resume/blob/master/images/CK2.jpeg" width="160" height="280">  <img src="https://github.com/furabonos/resume/blob/master/images/CK3.jpeg" width="160" height="280">  <img src="https://github.com/furabonos/resume/blob/master/images/CK4.jpeg" width="160" height="280">
+![Imgur](https://i.imgur.com/4weW3yX.jpg) ![Imgur](https://i.imgur.com/dhgoqRE.jpg) ![Imgur](https://i.imgur.com/bLO7rgD.jpg) ![Imgur](https://i.imgur.com/M1H9LyJ.jpg)
+
 
 
 ### myPUBG
@@ -44,8 +45,7 @@ FastCampus - IOS 7기 과정 수료
 * 사용기술: Swift, Realm
 * 사용 라이브러리: Alamofire, SwiftyJson, Realm
 
-
-<img src="https://github.com/furabonos/resume/blob/master/images/PUBG1.jpeg" width="160" height="280">  <img src="https://github.com/furabonos/resume/blob/master/images/PUBG2.jpeg" width="160" height="280">  <img src="https://github.com/furabonos/resume/blob/master/images/PUBG3.jpeg" width="160" height="280">  <img src="https://github.com/furabonos/resume/blob/master/images/PUBG4.jpeg" width="160" height="280">  <img src="https://github.com/furabonos/resume/blob/master/images/PUBG5.jpeg" width="160" height="280">  <img src="https://github.com/furabonos/resume/blob/master/images/PUBG6.jpeg" width="160" height="280">  <img src="https://github.com/furabonos/resume/blob/master/images/PUBG7.jpeg" width="160" height="280">
+![Imgur](https://i.imgur.com/EnJ5pd5.jpg) ![Imgur](https://i.imgur.com/STFq4FA.jpg) ![Imgur](https://i.imgur.com/TY8xtJA.jpg) ![Imgur](https://i.imgur.com/Or7FCIt.jpg) ![Imgur](https://i.imgur.com/YJvHtPR.jpg) ![Imgur](https://i.imgur.com/GQVh1eF.jpg) ![Imgur](https://i.imgur.com/uIaSxxK.jpg)
 
 ## 팀 프로젝트
 
@@ -56,7 +56,7 @@ FastCampus - IOS 7기 과정 수료
 * 사용기술: Swift, Firebase
 * 사용 라이브러리: Alamofire, Kingfisher, FBSDKLoginKit, NVActivityIndicatorView, Firebase, JSQMessagesViewController
 
-<img src="https://github.com/furabonos/resume/blob/master/images/Air1.jpeg" width="160" height="280">  <img src="https://github.com/furabonos/resume/blob/master/images/Air2.jpeg" width="160" height="280">  <img src="https://github.com/furabonos/resume/blob/master/images/Air3.jpeg" width="160" height="280">  <img src="https://github.com/furabonos/resume/blob/master/images/Air4.jpeg" width="160" height="280">  <img src="https://github.com/furabonos/resume/blob/master/images/Air5.jpeg" width="160" height="280">  <img src="https://github.com/furabonos/resume/blob/master/images/Air6.jpeg" width="160" height="280">  <img src="https://github.com/furabonos/resume/blob/master/images/Air7.jpeg" width="160" height="280">
+![Imgur](https://i.imgur.com/zmbwsZ5.jpg) ![Imgur](https://i.imgur.com/IzEcrEc.jpg) ![Imgur](https://i.imgur.com/tMQsfyW.jpg) ![Imgur](https://i.imgur.com/5OpPTGT.jpg) ![Imgur](https://i.imgur.com/sDrqhhT.jpg) ![Imgur](https://i.imgur.com/dT7kxGA.jpg) ![Imgur](https://i.imgur.com/H2oQLby.jpg)
 
 
 ### FCHackathon
@@ -66,5 +66,5 @@ FastCampus - IOS 7기 과정 수료
 * 사용기술: Swift
 * 사용 라이브러리: FlexibleImage
 
-<img src="https://github.com/furabonos/resume/blob/master/images/FCH1.jpeg" width="160" height="280">  <img src="https://github.com/furabonos/resume/blob/master/images/FCH2.jpeg" width="160" height="280">  <img src="https://github.com/furabonos/resume/blob/master/images/FCH3.jpeg" width="160" height="280">  <img src="https://github.com/furabonos/resume/blob/master/images/FCH4.jpeg" width="160" height="280">
+![Imgur](https://i.imgur.com/dRJ5LD5.jpg) ![Imgur](https://i.imgur.com/sgkS6js.jpg) ![Imgur](https://i.imgur.com/jJClIYS.jpg) ![Imgur](https://i.imgur.com/W6ed0xZ.jpg)
 
