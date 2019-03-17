@@ -33,6 +33,7 @@ FastCampus - IOS 7기 과정 수료
 * 사용기술: Swift, Realm
 * 사용 라이브러리: Alamofire, SwiftyJson 
 * AppStore ([https://itunes.apple.com/us/app/%EC%B6%9C%EA%B2%A9%EA%B0%80%EB%8A%A5/id1317706187?mt=8](https://itunes.apple.com/us/app/%EC%B6%9C%EA%B2%A9%EA%B0%80%EB%8A%A5/id1317706187?mt=8))
+* 현재 AppStore에서 내려감. 다시 올릴예정
 
 <img src="https://github.com/furabonos/resume/blob/master/images/CK1.jpeg" width="160" height="280">  <img src="https://github.com/furabonos/resume/blob/master/images/CK2.jpeg" width="160" height="280">  <img src="https://github.com/furabonos/resume/blob/master/images/CK3.jpeg" width="160" height="280">  <img src="https://github.com/furabonos/resume/blob/master/images/CK4.jpeg" width="160" height="280">
 
