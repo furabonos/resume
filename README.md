@@ -27,17 +27,16 @@ FastCampus - IOS 7기 과정 수료
 * AppStore ([https://itunes.apple.com/kr/app/mstuv/id1263774510?mt=8](https://itunes.apple.com/kr/app/mstuv/id1263774510?mt=8))
 
 ## 개인 프로젝트
-### 출격가능?
-날씨와 관련해서 옷을 어떻게 입을지 추천하는 앱.
-* 기간: 2017/12 ~ 
-* 사용기술: Swift, Realm
-* 사용 라이브러리: Alamofire, SwiftyJson 
-* AppStore ([https://itunes.apple.com/us/app/%EC%B6%9C%EA%B2%A9%EA%B0%80%EB%8A%A5/id1317706187?mt=8](https://itunes.apple.com/us/app/%EC%B6%9C%EA%B2%A9%EA%B0%80%EB%8A%A5/id1317706187?mt=8))
-* 현재 AppStore에서 내려감. 다시 올릴예정
 
-![Imgur](https://i.imgur.com/4weW3yX.jpg) ![Imgur](https://i.imgur.com/dhgoqRE.jpg) ![Imgur](https://i.imgur.com/bLO7rgD.jpg) ![Imgur](https://i.imgur.com/M1H9LyJ.jpg)
+### 셀프공사
+인테리어 견적서비스를 제공해주는 앱
+* 기간: 2019/10 ~ 2019/11 (앱 리뉴얼)
+* 사용기술: Swift, Rxswift, MVVM
 
-
+### Twifreeca
+인터넷방송 플랫폼 아프리카TV, 트위치TV를 하나의 앱에서 볼수있게 해주는 앱
+* 기간: 2019/06 ~ 2019/08
+* 사용기술: Swift, php, aws
 
 ### myPUBG
 온라인 게임 '배틀그라운드' 관련 앱. 전적검색(현재는 api문제로 검색이 되지 않음), 무기DB, 비행기 경로를 저장할수 있음.
@@ -47,16 +46,12 @@ FastCampus - IOS 7기 과정 수료
 
 ![Imgur](https://i.imgur.com/EnJ5pd5.jpg) ![Imgur](https://i.imgur.com/STFq4FA.jpg) ![Imgur](https://i.imgur.com/TY8xtJA.jpg) ![Imgur](https://i.imgur.com/Or7FCIt.jpg) ![Imgur](https://i.imgur.com/YJvHtPR.jpg) ![Imgur](https://i.imgur.com/GQVh1eF.jpg) ![Imgur](https://i.imgur.com/uIaSxxK.jpg)
 
-
-### Twifreeca
-인터넷방송 플랫폼 아프리카TV, 트위치TV를 하나의 앱에서 볼수있게 해주는 앱
-* 기간: 2019/06 ~ 2019/08
-* 사용기술: Swift, php, aws
-
-### 셀프공사
-인테리어 견적서비스를 제공해주는 앱
-* 기간: 2019/10 ~ 2019/11 (앱 리뉴얼)
-* 사용기술: Swift, Rxswift, MVVM
+### 출격가능?
+날씨와 관련해서 옷을 어떻게 입을지 추천하는 앱.
+* 기간: 2017/12 ~ 
+* 사용기술: Swift, Realm
+* 사용 라이브러리: Alamofire, SwiftyJson 
+![Imgur](https://i.imgur.com/4weW3yX.jpg) ![Imgur](https://i.imgur.com/dhgoqRE.jpg) ![Imgur](https://i.imgur.com/bLO7rgD.jpg) ![Imgur](https://i.imgur.com/M1H9LyJ.jpg)
 
 ## 팀 프로젝트
 
