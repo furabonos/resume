@@ -47,6 +47,17 @@ FastCampus - IOS 7기 과정 수료
 
 ![Imgur](https://i.imgur.com/EnJ5pd5.jpg) ![Imgur](https://i.imgur.com/STFq4FA.jpg) ![Imgur](https://i.imgur.com/TY8xtJA.jpg) ![Imgur](https://i.imgur.com/Or7FCIt.jpg) ![Imgur](https://i.imgur.com/YJvHtPR.jpg) ![Imgur](https://i.imgur.com/GQVh1eF.jpg) ![Imgur](https://i.imgur.com/uIaSxxK.jpg)
 
+
+### Twifreeca
+인터넷방송 플랫폼 아프리카TV, 트위치TV를 하나의 앱에서 볼수있게 해주는 앱
+* 기간: 2019/06 ~ 2019/08
+* 사용기술: Swift, php, aws
+
+### 셀프공사
+인테리어 견적서비스를 제공해주는 앱
+* 기간: 2019/10 ~ 2019/11 (앱 리뉴얼)
+* 사용기술: Swift, Rxswift, MVVM
+
 ## 팀 프로젝트
 
 ### Fastcampus Project - Airbnb_copy
