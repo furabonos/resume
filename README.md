@@ -6,8 +6,11 @@ Blog : https://furabonos.github.io/
 
 ## 경력
 
+BUXI
+* 2021/04/07 ~ ing
+
 MLab
-* 2019/01/07 ~ ing
+* 2019/01/07 ~ 2021/04/06
 
 ATOSTUDY
 * 2017/08/01 ~ 2017/10/31
@@ -20,6 +23,12 @@ FastCampus - IOS 7기 과정 수료
 * 2018/05/09 ~ 2018/08/24
 
 ## 회사 프로젝트
+### BUXI
+* 소속: BUXI
+* 역할: ios앱 개발, 유지보수
+* 사용기술: Swift
+* AppStore https://apps.apple.com/kr/app/id1112077043
+
 ### mSTUV
 * 소속: MLab
 * 역할: ios앱 개발, 유지보수
@@ -27,6 +36,12 @@ FastCampus - IOS 7기 과정 수료
 * AppStore ([https://itunes.apple.com/kr/app/mstuv/id1263774510?mt=8](https://itunes.apple.com/kr/app/mstuv/id1263774510?mt=8))
 
 ## 개인 프로젝트
+
+### CoinDiary
+코인 매매일지 기록 앱
+기능이 새롭진 않지만 새로 배워본 Clean Architecture를 사용해봄
+* 기간: 2022/09 ~ 2022/10
+* 사용기술: Swift, firebase, MVVM, Clean Architecture
 
 ### 셀프공사
 인테리어 견적서비스를 제공해주는 앱
