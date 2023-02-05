@@ -1,6 +1,7 @@
 * # resume
 # 이력서
 
+* https://www.notion.so/4b4686a80efc4f6999be48a7b261e7cb  이곳에서 저를 좀더 자세하게 설명하고 있습니다.
 
 ## 경력
 
