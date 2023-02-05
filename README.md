@@ -1,8 +1,6 @@
 * # resume
 # 이력서
 
-Blog : https://furabonos.github.io/
-
 
 ## 경력
 
