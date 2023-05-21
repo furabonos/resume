@@ -1,7 +1,7 @@
 * # resume
 # 이력서
 
-* https://www.notion.so/Resume-of-Um-Tae-Hyeong-87bc7c80226e4e89bb6c51c66a173137  이곳에서 저를 좀더 자세하게 설명하고 있습니다.
+* https://www.notion.so/Resume-of-Um-Tae-Hyeong-af23f52835bf4f31bc736447f059bacf  이곳에서 저를 좀더 자세하게 설명하고 있습니다.
 
 ## 경력
 
